@@ -13,5 +13,8 @@ def link
   puts tip
 end
 
-def any_phrase
+def any_phrase(arg)
+  arg = "Do A Barrel Roll!\n"
+  puts arg
+end
   
