@@ -12,3 +12,6 @@ def link
   tip = "It's Dangerous To Go Alone! Take This."
   puts tip
 end
+
+def any_phrase
+  
