@@ -10,4 +10,5 @@ end
 
 def link
   tip = "It's Dangerous To Go Alone! Take This."
+  puts tip
 end
